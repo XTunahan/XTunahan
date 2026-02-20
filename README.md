@@ -31,7 +31,7 @@ Layered architecture · Adapter pattern · Provider abstraction · Token account
 
 ## 🚀 Highlight Project
 
-### CodeLearnEngine
+### [CodeLearnEngine](https://github.com/XTunahan/CodeLearnEngine)
 
 **CodeLearnEngine** is a Qt/QML desktop application written in C++ that acts as an interactive coding trainer powered by multiple LLM providers.
 
